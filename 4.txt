@@ -1,0 +1,1 @@
+this is from branch1.2 which is inside brach1
